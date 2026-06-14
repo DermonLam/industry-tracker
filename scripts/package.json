@@ -1,0 +1,9 @@
+{
+  "name": "industry-tracker-scripts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Scripts for industry-tracker WorkBuddy skill",
+  "dependencies": {
+    "docx": "^9.0.0"
+  }
+}

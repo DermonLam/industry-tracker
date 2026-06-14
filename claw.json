@@ -1,0 +1,19 @@
+{
+  "name": "industry-tracker",
+  "version": "1.0.0",
+  "description": "分析文章内容，按维度提取关键信息，生成结构化Word分析报告",
+  "author": "DermonLam",
+  "homepage": "https://github.com/DermonLam/industry-tracker",
+  "license": "MIT",
+  "permissions": ["filesystem"],
+  "tags": ["article", "report", "docx", "物业", "行业分析"],
+  "entry": "SKILL.md",
+  "openclaw": {
+    "requires": {
+      "bins": ["node"],
+      "env": []
+    },
+    "emoji": "📊",
+    "os": ["darwin", "linux", "win32"]
+  }
+}
