@@ -83,6 +83,8 @@ git clone https://github.com/DermonLam/industry-tracker.git \
 ```
 
 安装后，当你在对话中提到"物业周报整理"、"物业文章整理"等关键词并提供文章链接时，WorkBuddy 会自动激活此 skill。
+若用户未提及"物业"但提供了文章链接并要求"按维度整理成Word"，同样触发此 skill，但使用空白默认配置——需向用户确认维度和公司清单后再执行。
+
 
 ## 文档格式
 
